@@ -2,7 +2,10 @@
 ![angular](captures/angular.PNG)
 ![ng-serve](captures/ng-serve.PNG)
 
-# Angular01
+# AWS Deployment
+Per anar avançant feina l'he desplegat, per saber com funciona aws: https://main.d30glicxkf5uer.amplifyapp.com/
+
+## Angular01
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
